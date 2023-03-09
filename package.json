@@ -1,0 +1,28 @@
+{
+  "name": "self-checkout",
+  "version": "1.0.0",
+  "description": "A program for basic self checkout for an online shop ",
+  "main": "self-checkout.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-shields-dev/self-checkout.git"
+  },
+  "keywords": [
+    "self",
+    "checkout",
+    "store",
+    "e-commerce"
+  ],
+  "author": "Mike Shields, Jordan Noble, Armghan Zubair, Benj Speight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-shields-dev/self-checkout/issues"
+  },
+  "homepage": "https://github.com/mike-shields-dev/self-checkout#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
